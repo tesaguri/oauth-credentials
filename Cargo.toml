@@ -1,0 +1,4 @@
+[package]
+name = "oauth-credentials"
+version = "0.1.0"
+authors = ["Daiki Mizukami <tesaguriguma@gmail.com>"]
